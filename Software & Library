@@ -1,2 +1,12 @@
-Tambahkan extention PYTHON  pada VS CODE
+Tambahkan extention python pada VS CODE
 Instal software python v3.12.3
+
+//library yang wajib terinstal , instal melalui terminal vs code//
+
+pip install opencv-python face_recognition numpy
+pip install opencv-python numpy
+pip install face-recognition
+pip install face-recognition-models
+pip install --upgrade --force-reinstall face-recognition
+pip install https://github.com/ageitgey/face_recognition_models/archive/master.zip
+python -m pip install --no-cache-dir face-recognition-models
